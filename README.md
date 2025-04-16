@@ -10,7 +10,7 @@
 
 - 🎓 Estudiante avanzado de Análisis de Sistemas.
 - 👨‍💻 Apasionado por el desarrollo web y de software en general.
-🧠 Interesado en **buenas prácticas**, **arquitectura limpia** y **diseño de software**.
+- 🧠 Interesado en **buenas prácticas**, **arquitectura limpia** y **diseño de software**.
 - 💡 Siempre aprendiendo algo nuevo, actualmente profundizando en **Backend**.
 - 📫 Puedes contactarme en: [bonellijoel@gmail.com].
 

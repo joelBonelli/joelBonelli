@@ -1,17 +1,17 @@
 <h1 align="center">¡Hola! 👋 Soy Joel Martin Bonelli</h1>
 
 <p align="center">
-  Desarrollador web 💻 | Estudiante de sistemas 🎓 | Apasionado por la tecnología 🚀
+  Desarrollador 💻 | Estudiante de sistemas 🎓 | Apasionado por la tecnología 🚀
 </p>
 
 ---
 
 ## 📌 Sobre mí
 
-- 🎓 Estudiante de Análisis de Sistemas.
-- 👨‍🏫 Experiencia ad honorem en proyectos y docencia.
+- 🎓 Estudiante avanzado de Análisis de Sistemas.
+- 👨‍💻 Apasionado por el desarrollo web y de software en general.
+🧠 Interesado en **buenas prácticas**, **arquitectura limpia** y **diseño de software**.
 - 💡 Siempre aprendiendo algo nuevo, actualmente profundizando en **Backend**.
-- 🌱 Me encanta desarrollar aplicaciones útiles y bien organizadas.
 - 📫 Puedes contactarme en: [bonellijoel@gmail.com].
 
 ---
@@ -29,18 +29,24 @@
 ## 🛠 Tecnologías
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="Express.js">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VS Code">
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VS Code">
 </p>
+
 
 
 

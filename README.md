@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Pérez</h1>
+<h1 align="center">¡Hola! 👋 Soy Joel Martin Bonelli</h1>
 
 <p align="center">
   Desarrollador web 💻 | Estudiante de sistemas 🎓 | Apasionado por la tecnología 🚀

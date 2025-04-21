@@ -18,9 +18,9 @@
 
 ## 🚀 Proyectos Destacados
 
-| Nombre del Proyecto | Descripción | Tecnologías |
+| Repositorio | Descripción | Acceso |
 |---------------------|-------------|-------------|
-| [Salón - Barbería](https://github.com/joelBonelli/appsalon-mvc-php.git) | Sistema de reservas con gestión de servicios y usuarios. | PHP, MySql |
+| [Salón - Barbería](https://github.com/joelBonelli/appsalon-mvc-php.git) | Sistema de reservas con gestión de servicios y usuarios. | (https://barberia-appsalon.sao.dom.my.id/) |
 | [Sistema de Notas](https://github.com/usuario/sistema-notas) | Sistema para gestión de calificaciones escolares | PHP, MySQL |
 | [Gestor de Asistencias](https://github.com/usuario/gestor-asistencias) | Administra la asistencia de estudiantes | Laravel, Vue.js |
 

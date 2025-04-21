@@ -20,7 +20,7 @@
 
 | Nombre del Proyecto | Descripción | Tecnologías |
 |---------------------|-------------|-------------|
-| [Buscador de Libros](https://github.com/usuario/buscador-libros) | App para buscar libros con Laravel | Laravel, Bootstrap |
+| [Salón - Barbería](https://github.com/joelBonelli/appsalon-mvc-php.git) | Sistema de reservas con gestión de servicios y usuarios. | PHP, MySql |
 | [Sistema de Notas](https://github.com/usuario/sistema-notas) | Sistema para gestión de calificaciones escolares | PHP, MySQL |
 | [Gestor de Asistencias](https://github.com/usuario/gestor-asistencias) | Administra la asistencia de estudiantes | Laravel, Vue.js |
 

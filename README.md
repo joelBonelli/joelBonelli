@@ -21,7 +21,7 @@
 | Repositorio | Descripción | Acceso |
 |---------------------|-------------|-------------|
 | [AppSalon](https://github.com/joelBonelli/appsalon-mvc-php.git) | Sistema de reservas de Barbería con gestión de servicios y usuarios. | https://barberia-appsalon.sao.dom.my.id/ |
-| [Sistema de Notas](https://github.com/usuario/sistema-notas) | Sistema para gestión de calificaciones escolares | PHP, MySQL |
+| [TodoMochilas](https://github.com/usuario/sistema-notas) | Tienda web para venta de mochilas | https://github.com/joelBonelli/TodoMochilasReact  https://github.com/joelBonelli/TodoMochilasAPI  |
 | [Gestor de Asistencias](https://github.com/usuario/gestor-asistencias) | Administra la asistencia de estudiantes | Laravel, Vue.js |
 
 ---

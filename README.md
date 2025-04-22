@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos 
 
 | Repositorio | Descripción | Acceso |
 |---------------------|-------------|-------------|

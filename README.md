@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Joel Martin Bonelli</h1>
 
 <p align="center">
-  Desarrollador 💻 | Estudiante de sistemas 🎓 | Apasionado por la tecnología 🚀
+  Desarrollador 💻 | Estudiante de sistemas 🎓 
 </p>
 
 ---
